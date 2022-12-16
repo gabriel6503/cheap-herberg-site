@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>404 - LifeHeberg</title>
+        <meta name="description" content="LifeHeberg - Hébergeur de VPS et serveur de jeux Minecraft et Garry's Mod">
+        <meta name="theme-color" content="#19233f">
+        <meta name="theme-color" content="#1c2746">
+        <meta name="author" content="Rémi & Baptiste">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://www.lifeheberg.com">
+        <meta property="og:type" content="article">
+        <meta property="og:title" content="LifeHeberg - Hébergeur de VPS et serveur de jeux Minecraft et Garry's Mod">
+        <meta property="og:description" content="Hébergeur de serveur Minecraft ainsi que des VPS KVM avec de très bonne performance.">    
+        <link href="/img/favicon.ico" rel="shortcut icon">
+        <!-- Fonts -->
+        <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="9d007022cf451566cc514aa4-|49"></script><link href="/fonts/cloudicon/cloudicon.css" rel="stylesheet" onload="if(media!='all')media='all'">
+        <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="9d007022cf451566cc514aa4-|49"></script><link href="/fonts/fontawesome/css/all.css" rel="stylesheet" onload="if(media!='all')media='all'">
+        <!-- CSS styles -->
+        <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="9d007022cf451566cc514aa4-|49"></script><link href="/css/bootstrap.min.css" rel="stylesheet" onload="if(media!='all')media='all'">
+        <link href="/css/style.min.css" rel="stylesheet">
+        <link href="/css/custom.css" rel="stylesheet">
+    </head>
+
+    <body >
+    <!-- ***** SETTINGS ****** -->
+    <section id="settings"> </section>
+    <div class="box-container limit-width">
+        <!-- ***** FRAME MODE ****** -->
+        <div class="body-borders" data-border="20">
+          <div class="top-border bg-white"></div>
+          <div class="right-border bg-white"></div>
+          <div class="bottom-border bg-white"></div>
+          <div class="left-border bg-white"></div>
+        </div>
+        <!-- ***** UPLOADED MENU FROM HEADER.HTML ****** -->
+        <header id="header"> </header>
+        <!-- ***** 404 ****** -->
+        <section class="sec-normal notfound pt-150 scrollme">
+            <div class="total-grad-pink-blue-intense"></div>
+            <div class="container animateme" data-when="exit" data-from="0" data-to="0.75" data-opacity="1" data-translatey="-50">
+                <div class="row justify-content-center">
+                    <div class="col-9">
+                        <img class="svg" src="/patterns/notfound.svg" alt="provisioning">
+                    </div>
+                </div>
+                <div class="col-md-12 text-center pt-5">
+                    <p class="text-white">Désolé, il semble que la page que vous avez demandée est introuvable.<br> Veuillez appuyer sur le bouton ci-dessous pour accéder à la page d'accueil ou nous contacter</a></p>
+                    <a href="/" class="btn btn-default-grad-purple-fill mt-3">Aller à la page d'accueil</a>
+                </div>
+            </div>
+        </section>
+        <!-- ***** UPLOADED FOOTER FROM FOOTER.HTML ****** -->
+        <footer id="footer"> </footer>
+    </div>
+<!-- ***** BUTTON GO TOP ***** -->
+<a href="#0" class="cd-top"> <i class="fas fa-angle-up"></i> </a>
+<!-- Javascript -->
+<script src="/js/jquery.min.js" type="9d007022cf451566cc514aa4-text/javascript"></script>
+<script defer src="/js/popper.min.js" type="9d007022cf451566cc514aa4-text/javascript"></script>
+<script defer src="/js/bootstrap.min.js" type="9d007022cf451566cc514aa4-text/javascript"></script>
+<script defer src="/js/jquery.countdown.js" type="9d007022cf451566cc514aa4-text/javascript"></script>
+<script defer src="/js/jquery.magnific-popup.min.js" type="9d007022cf451566cc514aa4-text/javascript"></script>
+<script defer src="/js/slick.min.js" type="9d007022cf451566cc514aa4-text/javascript"></script>
+<script defer src="/js/owl.carousel.min.js" type="9d007022cf451566cc514aa4-text/javascript"></script>
+<script defer src="/js/isotope.min.js" type="9d007022cf451566cc514aa4-text/javascript"></script>
+<script defer src="/js/jquery.scrollme.min.js" type="9d007022cf451566cc514aa4-text/javascript"></script>
+<script defer src="/js/swiper.min.js" type="9d007022cf451566cc514aa4-text/javascript"></script>
+<script defer src="/js/scripts.js" type="9d007022cf451566cc514aa4-text/javascript"></script>
+<script defer src="/js/settings-init.js" type="9d007022cf451566cc514aa4-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="9d007022cf451566cc514aa4-|49" defer=""></script></body>
+</html>
